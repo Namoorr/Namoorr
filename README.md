@@ -18,7 +18,8 @@
 ## 👨‍💻 About Me
 
 ```ts
-const khushal = {
+const khushal = 
+{
   title:      "Full-Stack Developer  |  AI & Automation Engineer  |  UI/UX Designer",
   location:   "Surat, India 🇮🇳",
   education:  "B.Tech CSE — Parul University (GPA: 10/10, Final Sem)",
@@ -146,15 +147,19 @@ const khushal = {
     ↳ 90% reduction in manual UPSC content scoring effort
     ↳ Prisma/PostgreSQL schemas for 14-week personalized study roadmaps
 
+
 🔬  Incubation Associate Intern  @ PIERC, Parul Univ.    (Oct 2024 – Mar 2025)
     ↳ Mentored startups on scalability & product development
     ↳ Managed FabLab: hardware prototyping ↔ software integration
 
+
 🎨  Product Design Intern        @ TrustoPay             (May – Sept 2023)
     ↳ Built visual brand identity & full UI/UX for the platform
 
+
 ⚡  Technical Lead               @ Explorer Club, PIT    (Jan 2022 – Jan 2026)
     ↳ Led PU CODE HACKATHON 2.0 end-to-end (infra + digital outreach)
+
 
 💻  Freelance Technical Consultant & Designer            (Jan 2024 – Present)
     ↳ Full-stack apps, backend systems, motion graphics & branding
@@ -191,13 +196,6 @@ const khushal = {
 
 ---
 
-## 🌐 Community & Leadership
-
-- ♟️ **Community Manager** — Shatranj Hub Chess Community, Surat (State/National/International FIDE tournaments)
-- ☁️ **Lead Designer & Coordinator** — AWS User Group & CNCF Vadodara (500+ developers)
-- 🚀 **Startup Mentor** — PIERC Incubation Center, Parul University
-
----
 
 <div align="center">
 

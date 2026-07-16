@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Khushal%20Dave&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20%26%20Automation%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Khushal%20Dave&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20%26%20Automation%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI-powered+MERN+systems+%F0%9F%9A%80;Blockchain+%2B+Full-Stack+%2B+Automation+%E2%9A%A1;Open+to+freelance+%26+contract+work+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
@@ -40,7 +40,7 @@ const khushal = {
 
 <div align="center">
 
-### ⚙️ Backend & AI
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

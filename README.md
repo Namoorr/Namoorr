@@ -124,7 +124,8 @@ const khushal =
 - Interactive Streamlit interface for production deployment
 - **Stack:** Python, SpeechRecognition, Streamlit, Jupyter
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)]((https://github.com/Namoorr/Real-Time-Speech-to-Text-AI-for-Phone-Calls))
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Namoorr/Real-Time-Speech-to-Text-AI-for-Phone-Calls)
+
 
 </td>
 <td width="50%" valign="top">

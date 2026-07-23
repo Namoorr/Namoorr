@@ -190,10 +190,13 @@ const khushal =
 ### 🐍 Contribution Graph
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Namoorr&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Namoorr/Namoorr/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Namoorr/Namoorr/output/dist/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Namoorr/Namoorr/output/dist/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Namoorr/Namoorr/blob/output/dist/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://github.com/Namoorr/Namoorr/blob/output/dist/github-snake.svg" width="100%"/>
   </picture>
 </div>
 

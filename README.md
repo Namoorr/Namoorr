@@ -145,16 +145,17 @@ const khushal =
 </div>
 
 ---
+
 ## 💼 Experience Highlights
 
-```text
+```
 🏢  Backend Developer Intern     @ Nextadhikari          (Dec 2025 – Apr 2026)
     ↳ Migrated Django → Node.js/TS | Built AI News Engine (Gemini AI + RSS)
     ↳ 90% reduction in manual UPSC content scoring effort
     ↳ Prisma/PostgreSQL schemas for 14-week personalized study roadmaps
 
 
-🔬  Incubation Associate Intern @ PIERC, Parul Univ.    (Oct 2024 – Mar 2025)
+🔬  Incubation Associate Intern  @ PIERC, Parul Univ.    (Oct 2024 – Mar 2025)
     ↳ Mentored startups on scalability & product development
     ↳ Managed FabLab: hardware prototyping ↔ software integration
 
@@ -173,27 +174,37 @@ const khushal =
 
 ---
 
+## 📊 GitHub Stats
 
+<!-- <div align="center">
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Namoorr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namoorr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+
+<br/> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Namoorr&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-### 🐍 Contribution Graph
+## 🏆 Certifications
+
+| Certificate | Issuer |
+|---|---|
+| Computer Networks & Internet Protocol | IIT Kharagpur |
+| Introduction to IoT | IIT Kharagpur |
+| Postman Student Expert | Postman |
+| Google Digital Marketing & E-Commerce | Google |
+| AI Fundamentals | IBM SkillsBuild |
+| Azure Cloud Concepts Fundamentals | Microsoft |
+| Student Innovation Ambassador | Ministry of Education, India |
+
+---
+
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
-
-
 
 ### 💬 Let's connect and build something great
 

@@ -176,12 +176,10 @@ const khushal =
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Namoorr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namoorr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
-
-<br/> -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Namoorr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namoorr&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Namoorr&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 

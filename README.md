@@ -175,24 +175,9 @@ const khushal =
 
 
 
-## 🔥 GitHub Stats
-
+### 📊 GitHub Stats
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <!-- Streak Stats -->
-        <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=YOUR_GITHUB_USERNAME&theme=dark" width="100%" alt="GitHub Streak" />
-        <br/><br/>
-        <!-- Overall Stats -->
-        <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&count_private=true" width="100%" alt="GitHub Overall Stats" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Top Languages -->
-        <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
@@ -205,4 +190,22 @@ const khushal =
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
+</div>
+
+
+
+
+### 💬 Let's connect and build something great
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-8B5CF6?style=for-the-badge)](https://khushall.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/khushal-dave-b11438253)
+[![Behance](https://img.shields.io/badge/🎨_Behance-Design_Work-1769FF?style=for-the-badge)](https://www.behance.net/Khushal_dave)
+[![Email](https://img.shields.io/badge/📧_Email-Reach_Out-EA4335?style=for-the-badge)](mailto:Khushaldave2217@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Namoorr&color=A78BFA&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
 </div>

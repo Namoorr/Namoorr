@@ -189,17 +189,15 @@ const khushal =
 
 ---
 
-## 🏆 Certifications
+### 🐍 Contribution Graph
 
-| Certificate | Issuer |
-|---|---|
-| Computer Networks & Internet Protocol | IIT Kharagpur |
-| Introduction to IoT | IIT Kharagpur |
-| Postman Student Expert | Postman |
-| Google Digital Marketing & E-Commerce | Google |
-| AI Fundamentals | IBM SkillsBuild |
-| Azure Cloud Concepts Fundamentals | Microsoft |
-| Student Innovation Ambassador | Ministry of Education, India |
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Namoorr/Namoorr/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Namoorr/Namoorr/output/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Namoorr/Namoorr/output/dist/github-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 

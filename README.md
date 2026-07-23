@@ -145,17 +145,16 @@ const khushal =
 </div>
 
 ---
-
 ## 💼 Experience Highlights
 
-```
+```text
 🏢  Backend Developer Intern     @ Nextadhikari          (Dec 2025 – Apr 2026)
     ↳ Migrated Django → Node.js/TS | Built AI News Engine (Gemini AI + RSS)
     ↳ 90% reduction in manual UPSC content scoring effort
     ↳ Prisma/PostgreSQL schemas for 14-week personalized study roadmaps
 
 
-🔬  Incubation Associate Intern  @ PIERC, Parul Univ.    (Oct 2024 – Mar 2025)
+🔬  Incubation Associate Intern @ PIERC, Parul Univ.    (Oct 2024 – Mar 2025)
     ↳ Mentored startups on scalability & product development
     ↳ Managed FabLab: hardware prototyping ↔ software integration
 
@@ -170,8 +169,11 @@ const khushal =
 
 💻  Freelance Technical Consultant & Designer            (Jan 2024 – Present)
     ↳ Full-stack apps, backend systems, motion graphics & branding
+```
 
---
+---
+
+
 
 ## 🔥 GitHub Stats
 
@@ -203,22 +205,4 @@ const khushal =
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-</div>
-
---
-<div align="center">
-
-### 💬 Let's connect and build something great
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-8B5CF6?style=for-the-badge)](https://khushall.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/khushal-dave-b11438253)
-[![Behance](https://img.shields.io/badge/🎨_Behance-Design_Work-1769FF?style=for-the-badge)](https://www.behance.net/Khushal_dave)
-[![Email](https://img.shields.io/badge/📧_Email-Reach_Out-EA4335?style=for-the-badge)](mailto:Khushaldave2217@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Namoorr&color=A78BFA&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
 </div>
